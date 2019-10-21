@@ -1,4 +1,4 @@
-# Welcome to Y1 Math with Python programming!
+# Welcome to Y2 Math with Cobra programming!
 
 By programming your solutions to math problems, you
 - gain a deeper understanding of the mathematical thinking processes
